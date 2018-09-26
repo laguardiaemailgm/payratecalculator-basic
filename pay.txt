@@ -1,0 +1,8 @@
+
+Number       Name    PayRate    Hours    RegularPay    OvertimePay    GrossPay
+3462        Jones      4.62       40         184.8            0        184.8
+6793      Robbins      5.83       38        221.54            0       221.54
+6985        Smith      5.22       45         208.8        39.15       247.95
+7834        Swain      6.89       36        248.04            0       248.04
+8867      Timmins      6.43       48         257.2        77.16       334.36
+9002     Williams      4.75       39        185.25            0       185.25

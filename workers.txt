@@ -1,0 +1,6 @@
+3462 Jones 4.62 40
+6793 Robbins 5.83 38
+6985 Smith 5.22 45
+7834 Swain 6.89 36
+8867 Timmins 6.43 48
+9002 Williams 4.75 39
